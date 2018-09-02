@@ -1,6 +1,6 @@
 # Release Notes
 
-## v5.6.12 (2018-03-14)
+## v5.6.12 (2018-03-14)fff
 
 ### Added
 - Added message for `not_regex` validation rule ([#4602](https://github.com/laravel/laravel/pull/4602))
